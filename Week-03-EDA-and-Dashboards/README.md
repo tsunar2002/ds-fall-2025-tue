@@ -18,6 +18,10 @@
 # Homework For Next Week
 TBD 
 
+
+### Extra Credit
+* Visualizations with Google Studio
+
 ### Next Week's Pre-Class Work
 TBD 
 
