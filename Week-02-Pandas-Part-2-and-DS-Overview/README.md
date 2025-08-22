@@ -27,11 +27,16 @@
 # HW DUE [~1.5hrs]
 
 ### Pre-Class for Next Weeks Analytics Lecture [~30min]
-0. Create [Tableau Public account](https://public.tableau.com/app/discover)
+0. Watch its official Ted (not TedX) lecture on [storytelling with data](https://www.youtube.com/watch?v=hVimVzgtD6w&ab_channel=TED) [20min]
+0. And this one too? [4min] [BBC: Joy of Stats](https://www.youtube.com/watch?v=jbkSRLYSojo&ab_channel=BBC)
+0. [Joy of stats playlst](https://www.youtube.com/watch?v=hUGUWr-TjR8&list=PL4F9E80BCF687CBA6&index=2&ab_channel=OpenLearnfromTheOpenUniversity)
+0. Joy of stats full[https://www.gapminder.org/videos/the-joy-of-stats/]
+
+<!-- 0. Create [Tableau Public account](https://public.tableau.com/app/discover)
 0. [Watch these eight 2min videos](https://public.tableau.com/app/learn/how-to-videos) on getting started with Tableau
 0. Create new project. 
 0. Load in the `data/listings.csv` into that project.
-0. Post in Slack thread 1 thing you learned about the video or Tableau. 
+0. Post in Slack thread 1 thing you learned about the video or Tableau.  -->
 
 
 ### Exercise [~45min]
