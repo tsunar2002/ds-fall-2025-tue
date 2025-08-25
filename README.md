@@ -6,8 +6,9 @@
 * Friday 12:30 - 3:00
 * Friday 6:30 - 9:00
 
-### Lecture Recordings !Please create this link @hMRZQ21 
-[Links to Lecture Recordings Document](link) If you dont have permission to view doc you are using the wrong email
+### Lecture Recordings 
+[Links to Lecture Recordings](https://drive.google.com/drive/u/0/folders/1udWRCtSEIDXDmX09SB98jWAgu1Ov8Pfg) 
+- If you dont have permission to view doc you are using the wrong email.
 
 
 ### Office Hours
