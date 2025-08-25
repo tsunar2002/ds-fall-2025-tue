@@ -63,11 +63,12 @@ _*Syllabus and topics are subject to change_
 0. Do the exercise and run all the cells, make sure no errors
 
 0. When you are done, run these commands:
-    - git status to see your file you need to add
-    - git add your new file name, should look something like this
+    - `git status` to see your file you need to add
+    - `git add` your new file name, should look something like this
     - `git add Week-01-Pandas/exercises Ahmad-Basyouni-exercise-week-01.ipynb`
-    - git commit -m “your message here”
-    - git push origin firstname-lastname-week-XX
+    - `git commit -m “your message here”`
+    - `git push origin firstname-lastname-week-XX`
+  
 ![git](assets/img/gitt.png)
 
 0. Go back to your class main repository on GitHub. You’ll see a prompt to create a Pull Request (PR) for your branch `Compare & Pull Request`. If you don’t see it, press on Contribute and make a PR through there.
