@@ -64,8 +64,8 @@ _*Syllabus and topics are subject to change_
 
 0. When you are done, run these commands:
     - `git status` to see your file you need to add
-    - `git add` your new file name, should look something like this
-    - `git add Week-01-Pandas/exercises Ahmad-Basyouni-exercise-week-01.ipynb`
+    - `git add` your new file name, should look something like this:
+        - `git add Week-01-Pandas/exercises/Ahmad-Basyouni-exercise-week-01.ipynb`
     - `git commit -m “your message here”`
     - `git push origin firstname-lastname-week-XX`
   
