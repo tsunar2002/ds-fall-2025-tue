@@ -51,6 +51,10 @@ _*Syllabus and topics are subject to change_
 
 0. Go into this week’s folder in the new tab that opens
 
+0. Once you have created your codespace and is running on the new tab, then you have the option to open it in your local VSCode
+![More Actions Codepspace](assets/img/more_actions_codespace.png)
+![VSCode](assets/img/vscode.png)
+
 0. For homework, make a copy of the exercise notebook (don’t edit the original—make your own copy!) and paste it in the `exercises` folder
 ![Copy](assets/img/copyy.png)
 
