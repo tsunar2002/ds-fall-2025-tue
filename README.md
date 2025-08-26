@@ -10,10 +10,13 @@
 [Links to Lecture Recordings](https://drive.google.com/drive/u/0/folders/1udWRCtSEIDXDmX09SB98jWAgu1Ov8Pfg) 
 - If you dont have permission to view doc you are using the wrong email.
 
+## [HW Submission Form](https://forms.gle/Ea1TnJ6D2NT6otBV9)
+* You fill this out for each individual HW assignment
+* HW assignments can be found inside each week's `README`.
 
 ### Office Hours
 * Ahmad Basyouni
-* Hussam Marzooq: Fridays 7-8 PM
+* Hussam Marzooq
 * Jessica Lau
 * Kevin Li
 <br>
@@ -87,3 +90,64 @@ _*Syllabus and topics are subject to change_
 ## Homework Submission
 - All homework is due at 12:01pm (noon) the day before the next class
 - Submit GitHub PR links to your completed exercises
+# Homework Instructions: How to hand in your HWs.
+__HW assignments can be found in that each weeks README.md file. Open that weeks folder to find assignment__
+
+__All HWs are due at 12:01pm (noon) the day before the next class__
+
+* Tue class:  HW due 12:01pm on Mon
+* Wed class: HW due 12:01pm on Tue
+* Fridays (both):  HW due 12:01pm on Thr
+
+__Submit your HW assignments to the form below:__
+* [Main HW submission form](https://forms.gle/Ea1TnJ6D2NT6otBV9)
+* Further instructions are inside the form.
+
+
+## There are usually 3 sections of HW every week.
+
+### #1 Pre-Class HW [~1hr]
+This covers the topic we are about to teach.  This is HW that will help you come to class better prepared to learn the material that week. 
+* Watch / read / do the tutorial listed above. 
+* Go to your class slack channel.  
+* Find the usually most recent message from your TA instructor that says "Week X: Pre-Class learnings". 
+* Respond in-thread to that message with least one thing you learned from the videos/reading/or tutorial. 
+	* Your response can be It can be as short as one sentence, or as long as a book. 
+* Still in Slack, copy the link to your response. 
+* Pasted that to your response in HW Submission sheets Pre-Class column for that week.
+
+__Submit by pasting the link to your message under the "Pre-Class Slack Link" column.__ 
+
+### #2 Exercise HW [~1hr]
+This is a coding assignment that you usually start in class.  It is located in the `Exercise-DONT-EDIT-MAKE-COPY.ipynb` file.  See detaild instructions below. (Paste link in HW Submission sheet.)
+
+0. Make a copy of `Exercise-DONT-EDIT-MAKE-COPY.ipynb`
+0. Name the new copy as `Exercise-[YOUR-INITIALS].ipynb`. Zack DeSario's would be `Exercise-ZD.ipynb`.
+0. Complete all the questions in YOUR COPY of the exercise file.
+0. Push that file to your fork. 
+    ```bash
+    ## NEVER DO --> git add .
+    git add YOUR-EXERCISE-FILE.ipynb
+    git commit -m 'YOUR COMMIT MESSAGE'
+    git push
+    ```
+0. Open your github fork on the internet, click on your HW file you just pushed. Copy that exact link. 
+0. Copy that exact link, and paste it into the HW submission sheet in the Exercise column for that week. 
+
+__Submit by pasting the link in the HW Submission sheet under the "Exercise.ipynb" column.__
+
+### #3 LinkedIn Post [~10min]
+Every week you have to post on LinkedIn. It can be anthing data science related unless instructed otherwise. 
+
+Publish the post (make sure its a public post.) 
+
+If no specific post topic is given that week, here are some topic ideas you can use. 
+* It can be about starting your CTP journey. 
+* Asking for advice on most important things to learn for entry level roles. 
+* Something you leanred in the pre-class videos. 
+* Why you love or hate pandas. 
+* Your favorite part about the class. 
+* A tip or trick that your learned in class. 
+* Anything related to data science or your journey. 
+
+Submit by putting the link to your LI post under the "LinkedIn Post" column. 
