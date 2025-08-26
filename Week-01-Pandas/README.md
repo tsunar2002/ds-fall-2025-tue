@@ -14,26 +14,28 @@
 0. Exercise in breakout rooms.
 0. When there is 15min left in class.
 	* Close all breakout rooms and explain HW instructions and how to submit HW. 
-0. Go through what is DUE for HW (first topic below). [Preclass, Exercise, LinkedIn, Slack]
+0. Go through what is DUE for HW (first topic below). [Slack Picture + Pre-Class Video + Slack Message + Exercise]
 0. Ask students who can help with setup to stay and help. 
 
 
-# Homework Due Monday [~2.5hrs to complete]
+# Homework Due Monday [~2.25 hrs to complete]
 **Tuesday's class:  HW is due 12:01pm on the Monday before next class begins.**
 
-## Pre-Class Videos [~30hr]
-**Submit by pasting the link to your message under the "Pre-Class Slack Link" column.** 
+## 1. Update Slack Profile with real photo and name.
 
+## 2. Pre-Class Videos [~30hr]
 0. [Watch "Top 25 Pandas Tricks"](https://youtu.be/RlIiVeig3hc?si=uowsrNJEI-bBHHU2) [~30min]
 * Here are the [data files](https://github.com/justmarkham/pandas-videos/tree/master/data) for that video if you want to follow along.
 2. Watch This Video: ["Best Places to Find Datasets for your Projects"](https://www.youtube.com/watch?v=PExdWWcxmro) [~30seconds]
 
-Respond in-thread in the class slack channel with a cool pandas trick you learned from the videos/reading/or tutorial.  
+## 3. Slack Message
+Respond in-thread in the class slack channel with a cool pandas trick you learned from the pre-class videos/reading/or tutorial or you figured out on your own.  
 
 It can be as short as one sentence, or as long as a book. 
 
-## Exercise.ipynb [~1hr] 
-_follow instructions in the [main readme getting setup section](https://github.com/CUNYTechPrep/ds-dev-fall-2025?tab=readme-ov-file#setup-instructions-github-and-homeworks)_
+## 4. Exercise.ipynb [~1hr] 
+_STOP! Follow instructions [here](https://github.com/CUNYTechPrep/ds-dev-fall-2025?tab=readme-ov-file#setup-instructions-github-and-homeworks) what do to before you start the exercise.ipynb_
+
 0. Complete the code in the `exercise.ipynb` file
 0. Make a copy of the exercise file (see instructions above).
 0. Complete all the questions in YOUR COPY of the exercise file.
