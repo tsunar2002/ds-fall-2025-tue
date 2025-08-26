@@ -1,10 +1,10 @@
 # CTP Fall Data Science 2025 
 
 ### Zoom Links 
-* Tuesday 6:30 - 9:00
-* Wednesday 6:00 - 8:30
-* Friday 12:30 - 3:00
-* Friday 6:30 - 9:00
+* [Tuesday 6:30 - 9:00 PM](https://us02web.zoom.us/j/81512566867?pwd=gRmOCv1vUDzM764HaZLlguGnWQnzr3.1)
+* Wednesday 6:00 - 8:30 PM 
+* Friday 12:30 - 3:00 PM
+* Friday 6:30 - 9:00 PM
 
 ### Lecture Recordings 
 [Links to Lecture Recordings](https://drive.google.com/drive/u/0/folders/1udWRCtSEIDXDmX09SB98jWAgu1Ov8Pfg) 
@@ -16,7 +16,7 @@
 
 ### Office Hours
 * Ahmad Basyouni
-* Hussam Marzooq
+* Hussam Marzooq: Fridays 7-8 PM
 * Jessica Lau
 * Kevin Li
 <br>
