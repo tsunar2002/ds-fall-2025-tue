@@ -30,7 +30,7 @@
 2. Watch This Video: ["Best Places to Find Datasets for your Projects"](https://www.youtube.com/watch?v=PExdWWcxmro) [~30seconds]
 
 ## 3. Slack Message
-Respond in-thread in the class slack channel with a cool pandas trick you learned from the pre-class videos/reading/or tutorial or you figured out on your own.  
+Respond in-thread in the class slack channel with one question you have about pandas tricks from the pre-class videos/reading/or tutorial or you figured out on your own.  
 
 It can be as short as one sentence, or as long as a book. 
 
