@@ -1,6 +1,6 @@
 # CTP Fall Data Science 2025 
 
-### Zoom Links
+### Zoom Links 
 * Tuesday 6:30 - 9:00
 * Wednesday 6:00 - 8:30
 * Friday 12:30 - 3:00
@@ -86,4 +86,4 @@ _*Syllabus and topics are subject to change_
 
 ## Homework Submission
 - All homework is due at 12:01pm (noon) the day before the next class
-- Submit GitHub links to your completed exercises
+- Submit GitHub PR links to your completed exercises
