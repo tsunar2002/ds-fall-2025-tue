@@ -13,7 +13,7 @@
 
 ### Office Hours
 * Ahmad Basyouni
-* Hussam Marzooq
+* Hussam Marzooq: Fridays 7-8 PM
 * Jessica Lau
 * Kevin Li
 <br>
