@@ -5,9 +5,10 @@
 	* Start recording
 	* Turn on CC's. 
 	* Enable screen sharing for everyone (for breakout rooms)
-	* Ask Georgios for time checks
+	* Ask TA for time checks
 0. Welcome and how to succeed CTP. [45min]
 	* [TLDR slide deck](https://docs.google.com/presentation/d/1cgkgEVO8ZY4P49R45uu2BuLGsZ7_sfBqwu60eyJ8k9c/edit#slide=id.g2f65cf05428_0_0)
+0. [Setting Up GitHub](https://github.com/CUNYTechPrep/ds-dev-fall-2025/tree/main?tab=readme-ov-file#setup-instructions-github-and-homeworks)
 0. Live coding pandas --> Lecture.ipynb [45min]
 0. Break
 0. Explain breakout room rules. 
@@ -23,7 +24,7 @@
 
 ## 1. Update Slack Profile with real photo and name.
 
-## 2. Pre-Class Videos [~30hr]
+## 2. Pre-Class Videos [~30 mins]
 0. [Watch "Top 25 Pandas Tricks"](https://youtu.be/RlIiVeig3hc?si=uowsrNJEI-bBHHU2) [~30min]
 * Here are the [data files](https://github.com/justmarkham/pandas-videos/tree/master/data) for that video if you want to follow along.
 2. Watch This Video: ["Best Places to Find Datasets for your Projects"](https://www.youtube.com/watch?v=PExdWWcxmro) [~30seconds]
