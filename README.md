@@ -46,6 +46,8 @@ _*Syllabus and topics are subject to change_
 
 ## Getting Started (PLEASE READ THIS CAREFULLY TO SET YOURSELF UP FOR SUCCESS THIS SEMESTER)
 0. Fork the class’ main repository to your own GitHub account `ds-fall-2025-YOUR_CLASS_SECTION`.
+![Click Fork](assets/img/click_fork.png)
+![Create Fork](assets/img/create_fork.png)
 
 0. Every week go to your forked repo and create a branch `firstname-lastname-week-XX` XX is the week number, eg: ahmad-basyouni-week-01
 ![Make Branch](assets/img/makeBranch.png)
