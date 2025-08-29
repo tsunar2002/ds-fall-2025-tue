@@ -6,6 +6,7 @@
 	* Turn on CC's. 
 	* Enable screen sharing for everyone (for breakout rooms)
 	* Ask TA for time checks
+    * [Warm Up Questions](https://ahaslides.com/PBIFD)
 0. Welcome and how to succeed CTP. [45min]
 	* [TLDR slide deck](https://docs.google.com/presentation/d/1cgkgEVO8ZY4P49R45uu2BuLGsZ7_sfBqwu60eyJ8k9c/edit#slide=id.g2f65cf05428_0_0)
 0. [Setting Up GitHub](https://github.com/CUNYTechPrep/ds-dev-fall-2025/tree/main?tab=readme-ov-file#setup-instructions-github-and-homeworks)
