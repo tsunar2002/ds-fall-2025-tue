@@ -24,13 +24,15 @@
 0. Weekly survey. 
 
 
-# HW DUE [~1.5hrs]
+# HW DUE [~1.75hrs]
 
-### Pre-Class for Next Weeks Analytics Lecture [~30min]
+### Pre-Class for Next Weeks Analytics Lecture [~45min]
 0. Watch its official Ted (not TedX) lecture on [storytelling with data](https://www.youtube.com/watch?v=hVimVzgtD6w&ab_channel=TED) [20min]
-0. And this one too? [4min] [BBC: Joy of Stats](https://www.youtube.com/watch?v=jbkSRLYSojo&ab_channel=BBC)
-0. [Joy of stats playlst](https://www.youtube.com/watch?v=hUGUWr-TjR8&list=PL4F9E80BCF687CBA6&index=2&ab_channel=OpenLearnfromTheOpenUniversity)
-0. Joy of stats full[https://www.gapminder.org/videos/the-joy-of-stats/]
+0. And this one too? [BBC: Joy of Stats](https://www.youtube.com/watch?v=jbkSRLYSojo&ab_channel=BBC) [4min] 
+0. [Joy of stats clip](https://www.youtube.com/watch?v=hUGUWr-TjR8&list=PL4F9E80BCF687CBA6&index=2&ab_channel=OpenLearnfromTheOpenUniversity) [3min]
+1. [Seaborn Tutorial](https://www.youtube.com/watch?v=LnGz20B3nTU&ab_channel=AbsentData) [15min]
+2. [Charts in Seaborn](https://www.youtube.com/watch?v=Iui04c3tbH8&ab_channel=FaniloAndrianasolo) [4min]
+0. Optional: [Joy of stats full documentary](https://www.gapminder.org/videos/the-joy-of-stats/) [1hr]
 
 <!-- 0. Create [Tableau Public account](https://public.tableau.com/app/discover)
 0. [Watch these eight 2min videos](https://public.tableau.com/app/learn/how-to-videos) on getting started with Tableau
