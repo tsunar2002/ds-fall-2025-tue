@@ -30,7 +30,7 @@
 _All HW's are due 1 day before the next class begins by 12:01pm (Noon)._  
 _Submit them via the [HW Submssions Form](https://forms.gle/MFH173MZaQ5TquCB6)_  
 
-### Pre-Class for Next Weeks Analytics Lecture [~30min] & Slack Message #1
+### Pre-Class for Next Weeks Analytics Lecture [~30min] & Slack Message #2
 After watching the following videos below... 
 Post image in slack thread with one data viz YOU loved or YOU hated and why you felt that way. (I'm looking for the story and impact it had on your life.)
 
@@ -38,6 +38,7 @@ Post image in slack thread with one data viz YOU loved or YOU hated and why you 
 0. [BBC: Joy of Stats](https://www.youtube.com/watch?v=jbkSRLYSojo&ab_channel=BBC) [4min]
 0. [Seaborn Tutorial](https://www.youtube.com/watch?v=LnGz20B3nTU&ab_channel=AbsentData) [15min]
 0. [Charts in Seaborn](https://www.youtube.com/watch?v=Iui04c3tbH8&ab_channel=FaniloAndrianasolo) [4min]
+1. Article + YouTube Tutorial + GitHub code on [How to build a dashboard in Streamlit](https://blog.streamlit.io/crafting-a-dashboard-app-in-python-using-streamlit/) [~45 mins]
 0. Optional: [Joy of stats full documentary](https://www.gapminder.org/videos/the-joy-of-stats/) [1hr]
 
 ### Exercise [~45min]
