@@ -16,6 +16,26 @@
 
 # Homework For Next Week
 
+## NEW: Dashboard Exercise
+Create visualizations and dashboards to analyze movie data.
+
+See the detailed instructions in: **[Dashboard_Exercise.md](Dashboard_Exercise.md)**
+
+### Quick Overview:
+- **Dataset**: `data/movie_ratings.csv` (MovieLens 100k with user demographics)
+- **Goal**: Answer 4 analytical questions using visualizations
+- **Tools**: Streamlit (recommended), Jupyter notebooks, or other dashboard tools
+- **Questions**:
+  1) Which genres have the highest viewer satisfaction?
+  2) How do ratings vary across movie release decades?
+  3) What are the best-rated movies after a minimum-ratings threshold?
+  4) Do age groups favor certain genres?
+  5) [Optional] Popularity vs. quality by genre (scatter: avg rating vs. number of ratings)
+  6) [Optional] Composition of ratings by genre (pie: Top 8 + Other)
+
+This exercise will prepare you for creating professional dashboards and telling stories with data.
+
+---
 
 ### Extra Credit
 * Visualizations with Google Studio
