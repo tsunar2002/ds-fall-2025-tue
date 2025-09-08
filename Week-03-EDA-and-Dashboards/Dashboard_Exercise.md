@@ -23,24 +23,17 @@ This dataset contains 100,000 movie ratings from 943 users on 1,682 movies, with
 - **genres**: Pipe-separated genres for each movie
 - **rating_year**: Year the rating was given
 
-## Questions to Answer (4)
-1. Which genres have the highest viewer satisfaction?
-   - Suggested: Horizontal bar chart of mean rating by genre with count annotations and a minimum-n threshold.
-2. How do ratings vary across movie release decades?
-   - Suggested: Dual-axis chart — bars for number of ratings, line for mean rating by decade.
-3. What are the best-rated movies after a minimum-ratings threshold?
-   - Suggested: Top-10 horizontal bars, label counts, tie-break by volume.
-4. Do age groups favor certain genres?
-   - Suggested: Heatmap of average rating by age group × genre (filter to popular genres).
+## Questions to Answer
+1. What is the distribution of genres of the movies that were rated?
+   - Hint: Use .explode()
+2. Which genres have the highest viewer satisfaction(highest ratings)? 
+3. How do ratings vary across movie release year?
+4. What are the 5 best-rated movies that have at least 50 ratings? At least 150 ratings?
 
-## Optional Extensions (if time permits)
-5. Popularity vs. Quality by Genre (Scatter)
-   - Plot mean rating (y) vs. number of ratings (x) per genre; optionally size by count.
-   - Label a few notable genres; discuss the trade-off.
-
-6. Genre Composition of Ratings (Pie)
-   - Show share of total ratings by genre. Limit to top 8 genres and group the rest as "Other".
-   - Use simple labeling; avoid 3D effects.
+## Extra Credit
+5. Pick 4 genres. For each genre, how does the rating change as viewer age increases?
+   - Suggestion: try to do this for more than 4 genres and see which have the most interesting visualization.
+6. Plot number of ratings vs mean rating per genre. Is there a correlation between the volume of ratings and mean rating?
 
 ## Notes and Caveats
 - Movies can belong to multiple genres. Exploding genres is acceptable for preference profiling but not for market share.
