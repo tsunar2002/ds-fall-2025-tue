@@ -1,12 +1,10 @@
 # Week 3 Dashboard Exercise: MovieLens Data Analysis
 
 ## Overview
-In this exercise, you will create visualizations or a small dashboard to analyze movie ratings from the MovieLens 100k dataset. Your goal is to answer analytical questions with clear, well-designed charts.
+In this exercise, you will create visualizations or a small dashboard to analyze movie ratings from the MovieLens 200k dataset. Your goal is to answer analytical questions with clear, well-designed charts.
 
 ## Dataset
 **File**: `data/movie_ratings.csv`
-
-This dataset contains 100,000 movie ratings from 943 users on 1,682 movies, with demographic and movie metadata.
 
 ### Columns
 - **user_id**: Unique user identifier
@@ -24,16 +22,17 @@ This dataset contains 100,000 movie ratings from 943 users on 1,682 movies, with
 - **rating_year**: Year the rating was given
 
 ## Questions to Answer
-1. What is the distribution of genres of the movies that were rated?
-   - Hint: Use `.explode()`
+1. What's the breakdown of genres for the movies that were rated?
 2. Which genres have the highest viewer satisfaction (highest ratings)? 
-3. How do ratings vary across movie release year?
+3. How does mean rating change across movie release years?
 4. What are the 5 best-rated movies that have at least 50 ratings? At least 150 ratings?
 
 ## Extra Credit
 5. Pick 4 genres. For each genre, how does the rating change as viewer age increases?
    - Suggestion: try to do this for more than 4 genres and see which have the most interesting visualization.
 6. Plot number of ratings vs mean rating per genre. Is there a correlation between the volume of ratings and mean rating?
+7. We gave you a pre-cleaned `genres` column, the original dataset is `movie_ratings_EC.csv`, can you clean it yourself?
+   - Hint: Use `.explode()` 
 
 ## Notes and Caveats
 - Movies can belong to multiple genres. Exploding genres is acceptable for preference profiling but not for market share.
@@ -94,6 +93,6 @@ print(df.head())
 - Submit your code files (`.py` for Streamlit apps, `.ipynb` for notebooks)
 - Include a brief README with instructions to run your code
 - If using Streamlit, include a `requirements.txt` file
-- Basically, if using Streamlit, follow the example in `georgios_dashboard/`
+- Basically, if using Streamlit, follow the example in `georgios_dashboard/`.
 
 Good luck, and have fun exploring the data!
