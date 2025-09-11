@@ -7,11 +7,10 @@ Everything lives and runs inside this directory to avoid merge conflicts in PRs.
 - App: `app.py`
 - Data (relative path expected by the app): `../../data/movie_ratings.csv`
 - Local deps: `requirements.txt`
-- Procfile (for hosted deploys): `Procfile`
 - Streamlit config: `.streamlit/config.toml`
 
 ## Deployed app
-- URL: <your-deployed-link-here>
+- URL: https://hussam-exercise3-dashboard.streamlit.app/
 
 ## Setup
 1. Create and activate a virtual environment (recommended).
