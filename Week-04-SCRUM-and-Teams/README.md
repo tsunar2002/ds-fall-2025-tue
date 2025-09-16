@@ -1,32 +1,52 @@
-# Week 04  Career Counselor Lecture [~1hr] & Working in the Real World & Making Teams
+# Week 04: Career Coach Lecture [~1hr] && Agile/Scrum && Team Making  
 
 ## Agenda
 0. Remind me to start recording
 0. After CC, First 5 vollys get to pitch their idea [Match Making Slides]()
-0. [CC Slides]()
+0. Career Coach Lecture: Tech Roles and Leadership
 0. BREAK
 0. [SCRUM Lecture Slides](https://docs.google.com/presentation/d/1G-7RNgZinNdX1FChukCllxV07ioiHQRA7gaxPV6eYHw/edit?usp=sharing)
-0. Two Random Breakout Rooms (4–5 people each)
-0. Homework Due next Week
+0. Project Pitches
+1. Two Random Breakout Rooms (4–5 people each)
+0. Review Homework due next week
 
 
 
-## Homework
-0. Watch Preclass Videos
+# Homework
+0. Make a team! [~-inf]
+1. Create slack channel [~1min]
+2. Preclass video/s:  Complete 2 DeepLearning.ai courses [~3hrs]
+3. Create student account and install [Cursor](https://cursor.com/students) [~10min]
 
-  (1 Mandatory): [ChatGPT Prompt Engineering for Developers](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/?utm_source=chatgpt.com)
+## Make a team
+__Form a team of 3–4 people from this class only and submit.__
 
-  Based on your level and what is new to you, also pick one of these:
+_HOW TO SUBMIT:  In HW Submission sheet, list memebers names in text box in first name alpha order seperated by line breaks_
 
-  - [Building Systems with ChatGPT](https://www.deeplearning.ai/short-courses/building-systems-with-chatgpt/?utm_source=chatgpt.com)
+
+## Create Slack channel for your team.
+
+_Naming convention for your team slack channel_
+
+0. `#ds-day-firstname-firstname-firstname` (alphabetically sorted by first name)
+
+For example... A Tuesday Class' group of Georgios, Ahmad, and Zack
+1. `#ds-tue-ahmad-georgios-zack`
+
+For example... A Fridays Class' group of Zack, Ahmad, and Hussam
+
+3. `#ds-fri-ahmad-hussam-zack`
+
+
+## Preclass Videos: Complete 2 DeepLearning.ai courses
+_HOW TO SUBMIT:  Upload a screenshot showing 100% completion for each course in this weeks slack thread. Then submit those message links (to your screenshot) in the HW Submission form 2x. (bonus points for funniest faces in screenshot)_
+
+Everyone must complete this course:
+  - [ChatGPT Prompt Engineering for Developers course](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers)
+
+Then complete any one of the following three:
+  - [Building Systems with ChatGPT](https://www.deeplearning.ai/short-courses/building-systems-with-chatgpt)
   - [Vibe Coding 101 with Replit](https://www.deeplearning.ai/short-courses/vibe-coding-101-with-replit/)
   - [Build Apps with Windsurfs AI Coding Agents](https://www.deeplearning.ai/short-courses/build-apps-with-windsurfs-ai-coding-agents/)
 
-1. Upload a screenshot showing 100% completion to the Slack message of the two short courses
-2. Form a team of 3–4 people from this class only and submit.
-3. Create Slack channel for your team.
-
-### Naming convention for channel
-0. #ds-day-first-first-first (alphabetical by first name)
-1. #ds-tue-ahmad-georgios-zack
-2. #ds-fri-ahmad-hussam-zack
+![image](https://github.com/CUNYTechPrep/2024-DS-Fri-1230/blob/0fa39d92ba70f6f82208a02b4698d3d0bc3ec915/Week-08-Decision-Trees-n-Random-Forest/images/image.png?raw=true)
