@@ -2,6 +2,7 @@
 
 ## Agenda
 0. Remind me to start recording
+1. Read Weekly Annoucment Message
 0. After CC, First 5 vollys get to pitch their idea [Match Making Slides]()
 0. Career Coach Lecture: Tech Roles and Leadership
 0. BREAK
