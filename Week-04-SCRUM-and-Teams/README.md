@@ -7,8 +7,9 @@
 0. BREAK
 0. [SCRUM Lecture Slides](https://docs.google.com/presentation/d/1G-7RNgZinNdX1FChukCllxV07ioiHQRA7gaxPV6eYHw/edit?usp=sharing)
 0. Project Pitches
-1. Two Random Breakout Rooms (4–5 people each)
-0. Review Homework due next week
+1. Zacks random project idea
+2. Two Random Breakout Rooms (4–5 people each)
+0. Review Homework due next week and how to submit in [HW Submission Form](https://forms.gle/MFH173MZaQ5TquCB6)
 
 
 
@@ -21,7 +22,7 @@
 ## Make a team
 __Form a team of 3–4 people from this class only and submit.__
 
-_HOW TO SUBMIT:  In HW Submission sheet, list memebers names in text box in first name alpha order seperated by line breaks_
+_HOW TO SUBMIT:  In [HW Submission Form](https://forms.gle/MFH173MZaQ5TquCB6), list memebers names in text box in first name alpha order seperated by line breaks_
 
 
 ## Create Slack channel for your team.
@@ -37,9 +38,10 @@ For example... A Fridays Class' group of Zack, Ahmad, and Hussam
 
 3. `#ds-fri-ahmad-hussam-zack`
 
+_HOW TO SUBMIT:  [HW Submission Form](https://forms.gle/MFH173MZaQ5TquCB6) submit name of channel_
 
 ## Preclass Videos: Complete 2 DeepLearning.ai courses
-_HOW TO SUBMIT:  Upload a screenshot showing 100% completion for each course in this weeks slack thread. Then submit those message links (to your screenshot) in the HW Submission form 2x. (bonus points for funniest faces in screenshot)_
+_HOW TO SUBMIT:  Upload a screenshot showing 100% completion for each course in this weeks slack thread. Then submit those message links (to your screenshot) in the [HW Submission Form](https://forms.gle/MFH173MZaQ5TquCB6) 2x one for each message. (bonus points for funniest faces in screenshot)_
 
 Everyone must complete this course:
   - [ChatGPT Prompt Engineering for Developers course](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers)
