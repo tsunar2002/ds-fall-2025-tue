@@ -27,6 +27,6 @@
 3. Create Slack channel for your team.
 
 Naming convention for channel:
-#ds-day-first-first-first (alphabetical by first name)
-#ds-tue-ahmad-georgios-zack
-#ds-fri-ahmad-hussam-zack
+0. #ds-day-first-first-first (alphabetical by first name)
+1. #ds-tue-ahmad-georgios-zack
+2. #ds-fri-ahmad-hussam-zack
