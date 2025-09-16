@@ -13,13 +13,14 @@
 
 ## Homework
 0. Watch Preclass Videos
-(1 Mandatory): [ChatGPT Prompt Engineering for Developers](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/?utm_source=chatgpt.com)
 
-Based on your level and what is new to you, also pick one of these:
+  (1 Mandatory): [ChatGPT Prompt Engineering for Developers](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/?utm_source=chatgpt.com)
 
-- [Building Systems with ChatGPT](https://www.deeplearning.ai/short-courses/building-systems-with-chatgpt/?utm_source=chatgpt.com)
-- [Vibe Coding 101 with Replit](https://www.deeplearning.ai/short-courses/vibe-coding-101-with-replit/)
-- [Build Apps with Windsurfs AI Coding Agents](https://www.deeplearning.ai/short-courses/build-apps-with-windsurfs-ai-coding-agents/)
+  Based on your level and what is new to you, also pick one of these:
+
+  - [Building Systems with ChatGPT](https://www.deeplearning.ai/short-courses/building-systems-with-chatgpt/?utm_source=chatgpt.com)
+  - [Vibe Coding 101 with Replit](https://www.deeplearning.ai/short-courses/vibe-coding-101-with-replit/)
+  - [Build Apps with Windsurfs AI Coding Agents](https://www.deeplearning.ai/short-courses/build-apps-with-windsurfs-ai-coding-agents/)
 
 0. Upload a screenshot showing 100% completion to the Slack message of the two short courses
 0. Form a team of 3–4 people from this class only and submit.
