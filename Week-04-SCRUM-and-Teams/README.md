@@ -22,9 +22,9 @@
   - [Vibe Coding 101 with Replit](https://www.deeplearning.ai/short-courses/vibe-coding-101-with-replit/)
   - [Build Apps with Windsurfs AI Coding Agents](https://www.deeplearning.ai/short-courses/build-apps-with-windsurfs-ai-coding-agents/)
 
-0. Upload a screenshot showing 100% completion to the Slack message of the two short courses
-0. Form a team of 3–4 people from this class only and submit.
-0. Create Slack channel for your team.
+1. Upload a screenshot showing 100% completion to the Slack message of the two short courses
+2. Form a team of 3–4 people from this class only and submit.
+3. Create Slack channel for your team.
 
 Naming convention for channel:
 #ds-day-first-first-first (alphabetical by first name)
