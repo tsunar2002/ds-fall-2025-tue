@@ -26,7 +26,7 @@
 2. Form a team of 3–4 people from this class only and submit.
 3. Create Slack channel for your team.
 
-Naming convention for channel:
+### Naming convention for channel
 0. #ds-day-first-first-first (alphabetical by first name)
 1. #ds-tue-ahmad-georgios-zack
 2. #ds-fri-ahmad-hussam-zack
