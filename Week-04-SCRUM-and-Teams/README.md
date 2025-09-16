@@ -8,7 +8,8 @@
 0. BREAK
 0. [SCRUM Lecture Slides](https://docs.google.com/presentation/d/1G-7RNgZinNdX1FChukCllxV07ioiHQRA7gaxPV6eYHw/edit?usp=sharing)
 0. Project Pitches
-1. Two Random Breakout Rooms (4–5 people each)
+1. Zacks random project idea
+2. Two Random Breakout Rooms (4–5 people each)
 0. Review Homework due next week and how to submit in [HW Submission Form](https://forms.gle/MFH173MZaQ5TquCB6)
 
 
