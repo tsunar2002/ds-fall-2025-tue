@@ -44,12 +44,8 @@ _HOW TO SUBMIT:  [HW Submission Form](https://forms.gle/MFH173MZaQ5TquCB6) submi
 ## Preclass Videos: Complete 2 DeepLearning.ai courses
 _HOW TO SUBMIT:  Upload a screenshot showing 100% completion for each course in this weeks slack thread. Then submit those message links (to your screenshot) in the [HW Submission Form](https://forms.gle/MFH173MZaQ5TquCB6) 2x one for each message. (bonus points for funniest faces in screenshot)_
 
-Everyone must complete this course:
+Everyone must complete these two course:
   - [ChatGPT Prompt Engineering for Developers course](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers)
-
-Then complete any one of the following three:
   - [Building Systems with ChatGPT](https://www.deeplearning.ai/short-courses/building-systems-with-chatgpt)
-  - [Vibe Coding 101 with Replit](https://www.deeplearning.ai/short-courses/vibe-coding-101-with-replit/)
-  - [Build Apps with Windsurfs AI Coding Agents](https://www.deeplearning.ai/short-courses/build-apps-with-windsurfs-ai-coding-agents/)
 
 ![image](https://github.com/CUNYTechPrep/2024-DS-Fri-1230/blob/0fa39d92ba70f6f82208a02b4698d3d0bc3ec915/Week-08-Decision-Trees-n-Random-Forest/images/image.png?raw=true)
