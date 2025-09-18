@@ -19,6 +19,7 @@
 1. Create slack channel [~1min]
 2. Preclass video/s:  Complete 2 DeepLearning.ai courses [~3hrs]
 3. Create student account and install [Cursor](https://cursor.com/students) [~10min]
+4. Download an install [Windsurf](https://windsurf.com/editor/students) free version.
 
 ## Make a team
 __Form a team of 3–4 people from this class only and submit.__
