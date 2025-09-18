@@ -1,4 +1,5 @@
-# MovieLens 200k – Week 3 Dashboard
+# MovieLens 200k – Week 3 Dashboard: 
+visit here: https://ishratsmoviedashboard.streamlit.app/
 
 This repo contains a Streamlit dashboard and optional notebook to analyze ratings from the MovieLens 200k dataset.
 
