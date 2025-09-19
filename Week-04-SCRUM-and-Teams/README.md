@@ -11,6 +11,7 @@
 1. Zacks random project idea
 2. Two Random Breakout Rooms (4–5 people each)
 0. Review Homework due next week and how to submit in [HW Submission Form](https://forms.gle/MFH173MZaQ5TquCB6)
+1. Attention: NO CLASS NEXT WEEK
 
 
 
