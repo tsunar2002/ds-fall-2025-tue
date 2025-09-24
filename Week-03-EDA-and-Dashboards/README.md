@@ -6,17 +6,29 @@
 0. Annoucements.
 	* Read weekly annoucments message
 0. Review last weeks HW.
-1. [Team Matchmaking Slides](https://docs.google.com/presentation/d/14byZY6zfrfDIu6W0GDIfgQjpunf7lXoefwVolWv8WVs/edit?slide=id.g2fe36577cca_0_931#slide=id.g2fe36577cca_0_931)
+1. [Team Matchmaking Slides](https://docs.google.com/presentation/d/15dKy4DA3uGoQfVNo6KxRlTG8TmajlcNwxCbDfY0r_v8/edit?usp=sharing)
+   * [Rick Ruben IG Short](https://www.instagram.com/screenwritinginla/reel/C0Qe8vMOGHH/) ~ 1 min
+   * [Nick R's First Funny Function Short](https://www.youtube.com/shorts/FXiLOfout3Y) ~ 1 min
+
 0. Updating your fork with this weeks files. 
 0. [Google slide lecture.](https://docs.google.com/presentation/d/1ppQ9qWHeZgN7Zxxah15NwscZIEWsuoW2JEbyul3cDmM/edit?slide=id.g343889e08ee_0_1271#slide=id.g343889e08ee_0_1271)
 0. Break
-0. Homework is to complete the dashboard exercise, project ideation slide, and preclass work.
-	1. Optionally, complete the `Exercise-DONT-EDIT-MAKE-COPY.ipynb` file
+1. Live Coding Data-Viz's
+2. Breakout Rooms to start the dashboard exercise.
+    * **[Dashboard_Exercise.md](Dashboard_Exercise.md)**
+4. Review what is due for HW.
+5. Before leaving class...
+	* Github / LinkedIn [Fellow Information Form](https://forms.gle/WVDjDFvEqciYTfwC7)
+    * Slack Message of advice 
 
 
 -- 
 
-# Homework For Next Week
+# Homework For Next Week [~2.5hrs]
+0. Complete **[Dashboard_Exercise.md](Dashboard_Exercise.md)**  See detailed instructions below. 
+1. Fill out YOUR slide in the 'Team Match Making Slides'
+2. Watch Pre-Class HW videos.
+3. [Extra Credit]: Complete the Exercise.ipynb notebook file.
 
 ## NEW: Dashboard Exercise
 Create visualizations and dashboards to analyze movie data.
@@ -41,8 +53,6 @@ This exercise will prepare you for creating professional dashboards and telling 
 ---
 
 ### Next Week's Pre-Class Work
-* [Rick Ruben IG Short](https://www.instagram.com/screenwritinginla/reel/C0Qe8vMOGHH/) ~ 1 min
-* [Nick R's First Funny Function Short](https://www.youtube.com/shorts/FXiLOfout3Y) ~ 1 min
 * [TED Talk: How to have big ideas](https://www.youtube.com/watch?v=mtn31hh6kU4&ab_channel=TEDArchive) ~ 5 min
 * [5 Impactful Data Science Projects For Your Portfolio](https://www.youtube.com/watch?v=QMP858aZcow&ab_channel=KenJee) ~ 8 mins
 * [What is AGILE?](https://www.youtube.com/watch?v=8eVXTyIZ1Hs&ab_channel=Simplilearn) ~ 6 mins
