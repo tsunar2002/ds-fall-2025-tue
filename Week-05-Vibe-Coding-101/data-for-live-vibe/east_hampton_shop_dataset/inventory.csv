@@ -1,0 +1,577 @@
+date,product_id,on_hand,reorder_point,supplier,lead_time_days
+2024-01-01,1001,36,21,Local Screenprint Co,10
+2024-01-01,1002,52,26,Local Screenprint Co,11
+2024-01-01,1003,111,25,Hamptons Supply LLC,9
+2024-01-01,1004,68,28,Atlantic Apparel,15
+2024-01-01,1005,59,20,Beach Goods Inc.,4
+2024-01-01,1006,41,19,Beach Goods Inc.,7
+2024-01-01,1007,40,20,Local Screenprint Co,6
+2024-01-01,1008,106,22,Local Screenprint Co,10
+2024-01-01,1009,34,19,Hamptons Supply LLC,8
+2024-01-01,1010,62,27,Local Screenprint Co,13
+2024-01-01,1011,61,20,Hamptons Supply LLC,8
+2024-01-01,1012,44,34,Beach Goods Inc.,5
+2024-01-15,1001,96,24,Hamptons Supply LLC,4
+2024-01-15,1002,56,33,Hamptons Supply LLC,10
+2024-01-15,1003,80,24,Local Screenprint Co,10
+2024-01-15,1004,52,22,Local Screenprint Co,13
+2024-01-15,1005,41,23,Local Screenprint Co,7
+2024-01-15,1006,44,25,Local Screenprint Co,6
+2024-01-15,1007,51,21,Atlantic Apparel,8
+2024-01-15,1008,44,29,Hamptons Supply LLC,8
+2024-01-15,1009,60,21,Beach Goods Inc.,13
+2024-01-15,1010,48,16,Atlantic Apparel,10
+2024-01-15,1011,57,18,Atlantic Apparel,15
+2024-01-15,1012,49,28,Local Screenprint Co,3
+2024-02-01,1001,90,23,Atlantic Apparel,6
+2024-02-01,1002,59,23,Hamptons Supply LLC,5
+2024-02-01,1003,61,25,Hamptons Supply LLC,7
+2024-02-01,1004,91,28,Hamptons Supply LLC,8
+2024-02-01,1005,75,22,Atlantic Apparel,8
+2024-02-01,1006,17,20,Beach Goods Inc.,7
+2024-02-01,1007,76,22,Local Screenprint Co,9
+2024-02-01,1008,46,20,Atlantic Apparel,11
+2024-02-01,1009,35,15,Beach Goods Inc.,8
+2024-02-01,1010,67,27,Beach Goods Inc.,8
+2024-02-01,1011,unknown,31,Hamptons Supply LLC,9
+2024-02-01,1012,36,20,Local Screenprint Co,7
+2024-02-15,1001,67,27,Hamptons Supply LLC,3
+2024-02-15,1002,66,27,Local Screenprint Co,12
+2024-02-15,1003,unknown,28,Local Screenprint Co,10
+2024-02-15,1004,81,23,Beach Goods Inc.,6
+2024-02-15,1005,43,28,Local Screenprint Co,9
+2024-02-15,1006,59,25,Beach Goods Inc.,7
+2024-02-15,1007,84,29,Local Screenprint Co,5
+2024-02-15,1008,65,28,Local Screenprint Co,9
+2024-02-15,1009,24,27,Beach Goods Inc.,8
+2024-02-15,1010,48,23,Local Screenprint Co,9
+2024-02-15,1011,47,22,Hamptons Supply LLC,10
+2024-02-15,1012,56,24,Hamptons Supply LLC,7
+2024-03-01,1001,79,28,Hamptons Supply LLC,6
+2024-03-01,1002,91,27,Local Screenprint Co,10
+2024-03-01,1003,58,20,Local Screenprint Co,5
+2024-03-01,1004,68,27,Atlantic Apparel,11
+2024-03-01,1005,84,19,Local Screenprint Co,10
+2024-03-01,1006,73,28,Beach Goods Inc.,6
+2024-03-01,1007,59,28,Local Screenprint Co,10
+2024-03-01,1008,70,25,Hamptons Supply LLC,7
+2024-03-01,1009,63,29,Atlantic Apparel,12
+2024-03-01,1010,71,28,Beach Goods Inc.,4
+2024-03-01,1011,76,32,Hamptons Supply LLC,3
+2024-03-01,1012,18,34,Atlantic Apparel,12
+2024-03-15,1001,88,30,Hamptons Supply LLC,6
+2024-03-15,1002,82,24,Atlantic Apparel,12
+2024-03-15,1003,59,21,Beach Goods Inc.,6
+2024-03-15,1004,54,28,Hamptons Supply LLC,9
+2024-03-15,1005,33,32,Hamptons Supply LLC,8
+2024-03-15,1006,49,20,Hamptons Supply LLC,13
+2024-03-15,1007,59,28,Local Screenprint Co,17
+2024-03-15,1008,75,22,Beach Goods Inc.,6
+2024-03-15,1009,55,25,Atlantic Apparel,9
+2024-03-15,1010,67,18,Local Screenprint Co,8
+2024-03-15,1011,51,24,Beach Goods Inc.,13
+2024-03-15,1012,69,23,Local Screenprint Co,11
+2024-04-01,1001,49,31,Hamptons Supply LLC,8
+2024-04-01,1002,59,20,Local Screenprint Co,13
+2024-04-01,1003,80,21,Local Screenprint Co,9
+2024-04-01,1004,51,21,Local Screenprint Co,8
+2024-04-01,1005,31,30,Atlantic Apparel,5
+2024-04-01,1006,58,30,Beach Goods Inc.,5
+2024-04-01,1007,42,29,Hamptons Supply LLC,10
+2024-04-01,1008,92,21,Local Screenprint Co,6
+2024-04-01,1009,46,27,Atlantic Apparel,3
+2024-04-01,1010,84,27,Local Screenprint Co,4
+2024-04-01,1011,43,22,Beach Goods Inc.,7
+2024-04-01,1012,59,28,Atlantic Apparel,11
+2024-04-15,1001,95,24,Hamptons Supply LLC,9
+2024-04-15,1002,68,29,Hamptons Supply LLC,11
+2024-04-15,1003,26,26,Local Screenprint Co,6
+2024-04-15,1004,unknown,20,Hamptons Supply LLC,6
+2024-04-15,1005,52,23,Beach Goods Inc.,6
+2024-04-15,1006,91,20,Local Screenprint Co,9
+2024-04-15,1007,unknown,25,Atlantic Apparel,8
+2024-04-15,1008,69,26,Local Screenprint Co,10
+2024-04-15,1009,59,31,Hamptons Supply LLC,8
+2024-04-15,1010,49,28,Hamptons Supply LLC,8
+2024-04-15,1011,37,27,Beach Goods Inc.,11
+2024-04-15,1012,unknown,28,Atlantic Apparel,9
+2024-05-01,1001,64,30,Atlantic Apparel,11
+2024-05-01,1002,52,18,Hamptons Supply LLC,6
+2024-05-01,1003,36,21,Beach Goods Inc.,11
+2024-05-01,1004,62,27,Beach Goods Inc.,11
+2024-05-01,1005,86,25,Atlantic Apparel,5
+2024-05-01,1006,64,22,Hamptons Supply LLC,9
+2024-05-01,1007,55,24,Local Screenprint Co,9
+2024-05-01,1008,49,23,Local Screenprint Co,10
+2024-05-01,1009,81,24,Local Screenprint Co,4
+2024-05-01,1010,77,23,Atlantic Apparel,11
+2024-05-01,1011,75,26,Local Screenprint Co,9
+2024-05-01,1012,82,31,Beach Goods Inc.,12
+2024-05-15,1001,52,26,Local Screenprint Co,5
+2024-05-15,1002,unknown,27,Local Screenprint Co,7
+2024-05-15,1003,108,30,Local Screenprint Co,10
+2024-05-15,1004,77,33,Beach Goods Inc.,10
+2024-05-15,1005,69,27,Local Screenprint Co,9
+2024-05-15,1006,55,33,Local Screenprint Co,6
+2024-05-15,1007,80,21,Hamptons Supply LLC,11
+2024-05-15,1008,52,24,Local Screenprint Co,11
+2024-05-15,1009,50,24,Local Screenprint Co,13
+2024-05-15,1010,29,24,Hamptons Supply LLC,6
+2024-05-15,1011,38,21,Local Screenprint Co,6
+2024-05-15,1012,48,27,Atlantic Apparel,5
+2024-06-01,1001,55,18,Atlantic Apparel,7
+2024-06-01,1002,76,28,Local Screenprint Co,3
+2024-06-01,1003,46,23,Atlantic Apparel,9
+2024-06-01,1004,60,22,Atlantic Apparel,6
+2024-06-01,1005,65,19,Hamptons Supply LLC,8
+2024-06-01,1006,88,29,Hamptons Supply LLC,6
+2024-06-01,1007,59,26,Local Screenprint Co,9
+2024-06-01,1008,94,16,Local Screenprint Co,9
+2024-06-01,1009,64,14,Beach Goods Inc.,3
+2024-06-01,1010,64,29,Local Screenprint Co,12
+2024-06-01,1011,74,30,Local Screenprint Co,10
+2024-06-01,1012,68,22,Atlantic Apparel,5
+2024-06-15,1001,84,19,Hamptons Supply LLC,7
+2024-06-15,1002,89,24,Atlantic Apparel,10
+2024-06-15,1003,58,15,Local Screenprint Co,12
+2024-06-15,1004,59,21,Atlantic Apparel,10
+2024-06-15,1005,88,21,Local Screenprint Co,11
+2024-06-15,1006,43,24,Atlantic Apparel,10
+2024-06-15,1007,70,17,Hamptons Supply LLC,10
+2024-06-15,1008,102,30,Local Screenprint Co,10
+2024-06-15,1009,77,20,Beach Goods Inc.,12
+2024-06-15,1010,77,26,Local Screenprint Co,11
+2024-06-15,1011,66,23,Hamptons Supply LLC,12
+2024-06-15,1012,66,34,Atlantic Apparel,15
+2024-07-01,1001,49,28,Atlantic Apparel,8
+2024-07-01,1002,59,18,Atlantic Apparel,7
+2024-07-01,1003,60,32,Local Screenprint Co,11
+2024-07-01,1004,46,22,Hamptons Supply LLC,13
+2024-07-01,1005,52,30,Hamptons Supply LLC,3
+2024-07-01,1006,49,27,Local Screenprint Co,6
+2024-07-01,1007,86,22,Beach Goods Inc.,15
+2024-07-01,1008,41,22,Beach Goods Inc.,9
+2024-07-01,1009,74,25,Atlantic Apparel,8
+2024-07-01,1010,58,20,Atlantic Apparel,7
+2024-07-01,1011,97,18,Beach Goods Inc.,14
+2024-07-01,1012,68,17,Local Screenprint Co,13
+2024-07-15,1001,0,33,Local Screenprint Co,13
+2024-07-15,1002,77,24,Atlantic Apparel,5
+2024-07-15,1003,50,23,Atlantic Apparel,4
+2024-07-15,1004,77,22,Local Screenprint Co,6
+2024-07-15,1005,52,32,Hamptons Supply LLC,7
+2024-07-15,1006,37,24,Beach Goods Inc.,8
+2024-07-15,1007,53,25,Local Screenprint Co,6
+2024-07-15,1008,74,21,Atlantic Apparel,8
+2024-07-15,1009,70,27,Hamptons Supply LLC,6
+2024-07-15,1010,26,28,Beach Goods Inc.,7
+2024-07-15,1011,45,27,Hamptons Supply LLC,13
+2024-07-15,1012,45,26,Local Screenprint Co,9
+2024-08-01,1001,49,26,Hamptons Supply LLC,6
+2024-08-01,1002,55,29,Beach Goods Inc.,9
+2024-08-01,1003,110,26,Local Screenprint Co,8
+2024-08-01,1004,56,21,Beach Goods Inc.,11
+2024-08-01,1005,74,17,Beach Goods Inc.,8
+2024-08-01,1006,95,10,Beach Goods Inc.,9
+2024-08-01,1007,60,24,Local Screenprint Co,6
+2024-08-01,1008,55,19,Atlantic Apparel,8
+2024-08-01,1009,54,25,Atlantic Apparel,11
+2024-08-01,1010,69,23,Beach Goods Inc.,11
+2024-08-01,1011,61,26,Beach Goods Inc.,6
+2024-08-01,1012,58,20,Local Screenprint Co,7
+2024-08-15,1001,18,28,Hamptons Supply LLC,10
+2024-08-15,1002,49,31,Beach Goods Inc.,6
+2024-08-15,1003,30,31,Hamptons Supply LLC,12
+2024-08-15,1004,56,24,Local Screenprint Co,14
+2024-08-15,1005,70,23,Atlantic Apparel,9
+2024-08-15,1006,40,22,Local Screenprint Co,10
+2024-08-15,1007,39,31,Hamptons Supply LLC,9
+2024-08-15,1008,64,23,Atlantic Apparel,7
+2024-08-15,1009,57,28,Atlantic Apparel,9
+2024-08-15,1010,51,25,Local Screenprint Co,10
+2024-08-15,1011,62,25,Local Screenprint Co,11
+2024-08-15,1012,84,22,Hamptons Supply LLC,3
+2024-09-01,1001,35,25,Atlantic Apparel,5
+2024-09-01,1002,45,40,Atlantic Apparel,13
+2024-09-01,1003,52,25,Local Screenprint Co,6
+2024-09-01,1004,68,15,Hamptons Supply LLC,3
+2024-09-01,1005,82,19,Hamptons Supply LLC,10
+2024-09-01,1006,30,27,Local Screenprint Co,14
+2024-09-01,1007,33,24,Atlantic Apparel,10
+2024-09-01,1008,66,24,Local Screenprint Co,9
+2024-09-01,1009,94,20,Hamptons Supply LLC,4
+2024-09-01,1010,72,27,Atlantic Apparel,11
+2024-09-01,1011,80,29,Atlantic Apparel,12
+2024-09-01,1012,54,24,Hamptons Supply LLC,9
+2024-09-15,1001,78,26,Local Screenprint Co,11
+2024-09-15,1002,56,20,Local Screenprint Co,9
+2024-09-15,1003,55,19,Local Screenprint Co,8
+2024-09-15,1004,46,22,Beach Goods Inc.,9
+2024-09-15,1005,94,21,Atlantic Apparel,8
+2024-09-15,1006,41,23,Beach Goods Inc.,8
+2024-09-15,1007,62,23,Local Screenprint Co,6
+2024-09-15,1008,66,22,Local Screenprint Co,10
+2024-09-15,1009,57,19,Atlantic Apparel,14
+2024-09-15,1010,69,23,Hamptons Supply LLC,7
+2024-09-15,1011,71,20,Beach Goods Inc.,10
+2024-09-15,1012,56,30,Beach Goods Inc.,8
+2024-10-01,1001,56,27,Hamptons Supply LLC,15
+2024-10-01,1002,46,21,Hamptons Supply LLC,10
+2024-10-01,1003,81,37,Hamptons Supply LLC,10
+2024-10-01,1004,53,25,Hamptons Supply LLC,13
+2024-10-01,1005,67,24,Local Screenprint Co,8
+2024-10-01,1006,59,24,Local Screenprint Co,8
+2024-10-01,1007,unknown,30,Beach Goods Inc.,15
+2024-10-01,1008,52,28,Hamptons Supply LLC,7
+2024-10-01,1009,88,28,Hamptons Supply LLC,3
+2024-10-01,1010,73,27,Beach Goods Inc.,10
+2024-10-01,1011,68,29,Beach Goods Inc.,8
+2024-10-01,1012,95,21,Beach Goods Inc.,10
+2024-10-15,1001,39,19,Hamptons Supply LLC,8
+2024-10-15,1002,54,21,Local Screenprint Co,10
+2024-10-15,1003,33,24,Atlantic Apparel,7
+2024-10-15,1004,64,22,Local Screenprint Co,13
+2024-10-15,1005,81,25,Beach Goods Inc.,8
+2024-10-15,1006,5,28,Local Screenprint Co,9
+2024-10-15,1007,44,26,Hamptons Supply LLC,11
+2024-10-15,1008,66,24,Atlantic Apparel,3
+2024-10-15,1009,38,25,Beach Goods Inc.,3
+2024-10-15,1010,56,22,Hamptons Supply LLC,3
+2024-10-15,1011,58,22,Local Screenprint Co,13
+2024-10-15,1012,59,24,Beach Goods Inc.,8
+2024-11-01,1001,72,23,Local Screenprint Co,8
+2024-11-01,1002,94,19,Beach Goods Inc.,13
+2024-11-01,1003,61,27,Atlantic Apparel,8
+2024-11-01,1004,48,23,Beach Goods Inc.,3
+2024-11-01,1005,48,28,Hamptons Supply LLC,7
+2024-11-01,1006,32,13,Hamptons Supply LLC,10
+2024-11-01,1007,70,30,Atlantic Apparel,11
+2024-11-01,1008,60,22,Local Screenprint Co,8
+2024-11-01,1009,74,26,Beach Goods Inc.,5
+2024-11-01,1010,68,34,Hamptons Supply LLC,7
+2024-11-01,1011,63,27,Hamptons Supply LLC,12
+2024-11-01,1012,42,20,Hamptons Supply LLC,8
+2024-11-15,1001,77,28,Local Screenprint Co,5
+2024-11-15,1002,57,10,Local Screenprint Co,9
+2024-11-15,1003,63,24,Beach Goods Inc.,13
+2024-11-15,1004,54,26,Hamptons Supply LLC,14
+2024-11-15,1005,88,17,Hamptons Supply LLC,11
+2024-11-15,1006,94,33,Atlantic Apparel,6
+2024-11-15,1007,87,31,Atlantic Apparel,10
+2024-11-15,1008,81,18,Atlantic Apparel,12
+2024-11-15,1009,82,27,Local Screenprint Co,7
+2024-11-15,1010,31,28,Hamptons Supply LLC,7
+2024-11-15,1011,86,31,Local Screenprint Co,5
+2024-11-15,1012,69,29,Local Screenprint Co,10
+2024-12-01,1001,68,27,Local Screenprint Co,5
+2024-12-01,1002,12,16,Beach Goods Inc.,14
+2024-12-01,1003,45,32,Hamptons Supply LLC,8
+2024-12-01,1004,57,25,Local Screenprint Co,10
+2024-12-01,1005,103,24,Local Screenprint Co,11
+2024-12-01,1006,34,31,Local Screenprint Co,11
+2024-12-01,1007,51,24,Beach Goods Inc.,7
+2024-12-01,1008,76,29,Local Screenprint Co,11
+2024-12-01,1009,82,28,Beach Goods Inc.,8
+2024-12-01,1010,102,25,Hamptons Supply LLC,8
+2024-12-01,1011,60,21,Atlantic Apparel,4
+2024-12-01,1012,31,36,Atlantic Apparel,11
+2024-12-15,1001,47,19,Atlantic Apparel,3
+2024-12-15,1002,unknown,24,Atlantic Apparel,7
+2024-12-15,1003,50,19,Beach Goods Inc.,9
+2024-12-15,1004,25,28,Atlantic Apparel,7
+2024-12-15,1005,53,29,Atlantic Apparel,7
+2024-12-15,1006,49,28,Beach Goods Inc.,8
+2024-12-15,1007,70,22,Hamptons Supply LLC,5
+2024-12-15,1008,81,25,Local Screenprint Co,8
+2024-12-15,1009,35,26,Beach Goods Inc.,7
+2024-12-15,1010,67,18,Atlantic Apparel,3
+2024-12-15,1011,68,23,Local Screenprint Co,6
+2024-12-15,1012,80,29,Local Screenprint Co,4
+2025-01-01,1001,71,25,Atlantic Apparel,9
+2025-01-01,1002,56,22,Local Screenprint Co,5
+2025-01-01,1003,50,26,Hamptons Supply LLC,5
+2025-01-01,1004,78,23,Atlantic Apparel,10
+2025-01-01,1005,101,18,Beach Goods Inc.,8
+2025-01-01,1006,47,30,Local Screenprint Co,3
+2025-01-01,1007,86,28,Atlantic Apparel,10
+2025-01-01,1008,47,30,Local Screenprint Co,12
+2025-01-01,1009,82,31,Hamptons Supply LLC,12
+2025-01-01,1010,78,22,Atlantic Apparel,9
+2025-01-01,1011,77,19,Hamptons Supply LLC,9
+2025-01-01,1012,38,24,Atlantic Apparel,3
+2025-01-15,1001,64,17,Atlantic Apparel,7
+2025-01-15,1002,75,24,Hamptons Supply LLC,9
+2025-01-15,1003,21,27,Hamptons Supply LLC,10
+2025-01-15,1004,72,24,Atlantic Apparel,15
+2025-01-15,1005,30,19,Atlantic Apparel,13
+2025-01-15,1006,61,27,Beach Goods Inc.,12
+2025-01-15,1007,66,32,Atlantic Apparel,11
+2025-01-15,1008,51,27,Local Screenprint Co,7
+2025-01-15,1009,68,25,Atlantic Apparel,4
+2025-01-15,1010,83,22,Beach Goods Inc.,10
+2025-01-15,1011,66,24,Local Screenprint Co,9
+2025-01-15,1012,93,33,Hamptons Supply LLC,8
+2025-02-01,1001,55,24,Atlantic Apparel,7
+2025-02-01,1002,49,20,Local Screenprint Co,6
+2025-02-01,1003,60,31,Atlantic Apparel,10
+2025-02-01,1004,28,31,Local Screenprint Co,9
+2025-02-01,1005,84,22,Atlantic Apparel,7
+2025-02-01,1006,70,23,Hamptons Supply LLC,10
+2025-02-01,1007,86,32,Beach Goods Inc.,13
+2025-02-01,1008,38,22,Atlantic Apparel,6
+2025-02-01,1009,65,25,Hamptons Supply LLC,8
+2025-02-01,1010,92,25,Local Screenprint Co,8
+2025-02-01,1011,45,26,Hamptons Supply LLC,13
+2025-02-01,1012,69,21,Atlantic Apparel,9
+2025-02-15,1001,47,27,Local Screenprint Co,7
+2025-02-15,1002,15,29,Hamptons Supply LLC,10
+2025-02-15,1003,91,22,Atlantic Apparel,7
+2025-02-15,1004,54,26,Atlantic Apparel,5
+2025-02-15,1005,45,25,Atlantic Apparel,11
+2025-02-15,1006,50,29,Hamptons Supply LLC,8
+2025-02-15,1007,55,30,Local Screenprint Co,10
+2025-02-15,1008,60,19,Local Screenprint Co,9
+2025-02-15,1009,36,34,Beach Goods Inc.,4
+2025-02-15,1010,68,21,Beach Goods Inc.,7
+2025-02-15,1011,62,29,Local Screenprint Co,10
+2025-02-15,1012,49,21,Hamptons Supply LLC,12
+2025-03-01,1001,49,25,Atlantic Apparel,9
+2025-03-01,1002,57,21,Hamptons Supply LLC,10
+2025-03-01,1003,100,23,Beach Goods Inc.,8
+2025-03-01,1004,75,31,Local Screenprint Co,9
+2025-03-01,1005,67,25,Beach Goods Inc.,6
+2025-03-01,1006,42,17,Atlantic Apparel,12
+2025-03-01,1007,57,27,Beach Goods Inc.,9
+2025-03-01,1008,74,25,Local Screenprint Co,6
+2025-03-01,1009,84,28,Local Screenprint Co,9
+2025-03-01,1010,72,28,Atlantic Apparel,8
+2025-03-01,1011,49,30,Hamptons Supply LLC,10
+2025-03-01,1012,65,21,Beach Goods Inc.,10
+2025-03-15,1001,36,31,Beach Goods Inc.,12
+2025-03-15,1002,72,20,Atlantic Apparel,12
+2025-03-15,1003,67,31,Hamptons Supply LLC,15
+2025-03-15,1004,43,16,Hamptons Supply LLC,8
+2025-03-15,1005,36,33,Local Screenprint Co,6
+2025-03-15,1006,25,18,Beach Goods Inc.,3
+2025-03-15,1007,70,22,Beach Goods Inc.,10
+2025-03-15,1008,73,26,Atlantic Apparel,5
+2025-03-15,1009,74,26,Beach Goods Inc.,13
+2025-03-15,1010,64,17,Local Screenprint Co,13
+2025-03-15,1011,6,35,Atlantic Apparel,8
+2025-03-15,1012,50,30,Hamptons Supply LLC,4
+2025-04-01,1001,unknown,33,Atlantic Apparel,6
+2025-04-01,1002,71,30,Beach Goods Inc.,11
+2025-04-01,1003,47,32,Beach Goods Inc.,5
+2025-04-01,1004,45,22,Beach Goods Inc.,8
+2025-04-01,1005,94,23,Hamptons Supply LLC,8
+2025-04-01,1006,19,14,Local Screenprint Co,5
+2025-04-01,1007,35,26,Atlantic Apparel,10
+2025-04-01,1008,32,25,Hamptons Supply LLC,5
+2025-04-01,1009,51,21,Hamptons Supply LLC,10
+2025-04-01,1010,61,27,Beach Goods Inc.,10
+2025-04-01,1011,57,20,Local Screenprint Co,4
+2025-04-01,1012,77,23,Atlantic Apparel,10
+2025-04-15,1001,66,35,Hamptons Supply LLC,5
+2025-04-15,1002,54,27,Local Screenprint Co,8
+2025-04-15,1003,44,23,Beach Goods Inc.,5
+2025-04-15,1004,75,26,Atlantic Apparel,13
+2025-04-15,1005,84,24,Hamptons Supply LLC,11
+2025-04-15,1006,94,17,Local Screenprint Co,5
+2025-04-15,1007,49,33,Atlantic Apparel,9
+2025-04-15,1008,51,24,Atlantic Apparel,11
+2025-04-15,1009,41,23,Local Screenprint Co,8
+2025-04-15,1010,23,18,Local Screenprint Co,9
+2025-04-15,1011,40,27,Hamptons Supply LLC,6
+2025-04-15,1012,43,21,Beach Goods Inc.,11
+2025-05-01,1001,35,27,Beach Goods Inc.,3
+2025-05-01,1002,33,22,Atlantic Apparel,9
+2025-05-01,1003,81,21,Beach Goods Inc.,8
+2025-05-01,1004,49,21,Hamptons Supply LLC,7
+2025-05-01,1005,99,29,Atlantic Apparel,7
+2025-05-01,1006,5,16,Beach Goods Inc.,9
+2025-05-01,1007,56,29,Hamptons Supply LLC,3
+2025-05-01,1008,33,26,Beach Goods Inc.,11
+2025-05-01,1009,71,22,Local Screenprint Co,7
+2025-05-01,1010,66,27,Hamptons Supply LLC,6
+2025-05-01,1011,58,21,Beach Goods Inc.,10
+2025-05-01,1012,42,28,Beach Goods Inc.,11
+2025-05-15,1001,42,31,Atlantic Apparel,12
+2025-05-15,1002,20,25,Hamptons Supply LLC,13
+2025-05-15,1003,85,23,Atlantic Apparel,3
+2025-05-15,1004,68,15,Beach Goods Inc.,17
+2025-05-15,1005,45,29,Atlantic Apparel,10
+2025-05-15,1006,2,24,Beach Goods Inc.,10
+2025-05-15,1007,45,20,Atlantic Apparel,6
+2025-05-15,1008,47,22,Beach Goods Inc.,10
+2025-05-15,1009,48,24,Hamptons Supply LLC,7
+2025-05-15,1010,31,20,Hamptons Supply LLC,10
+2025-05-15,1011,28,14,Local Screenprint Co,5
+2025-05-15,1012,50,32,Local Screenprint Co,12
+2025-06-01,1001,71,21,Local Screenprint Co,8
+2025-06-01,1002,45,22,Local Screenprint Co,12
+2025-06-01,1003,31,21,Hamptons Supply LLC,7
+2025-06-01,1004,65,24,Atlantic Apparel,7
+2025-06-01,1005,83,31,Atlantic Apparel,9
+2025-06-01,1006,43,23,Hamptons Supply LLC,9
+2025-06-01,1007,62,22,Local Screenprint Co,9
+2025-06-01,1008,84,23,Local Screenprint Co,11
+2025-06-01,1009,93,22,Hamptons Supply LLC,8
+2025-06-01,1010,78,24,Local Screenprint Co,10
+2025-06-01,1011,31,28,Local Screenprint Co,3
+2025-06-01,1012,45,26,Beach Goods Inc.,11
+2025-06-15,1001,58,34,Local Screenprint Co,7
+2025-06-15,1002,9,38,Local Screenprint Co,9
+2025-06-15,1003,unknown,22,Atlantic Apparel,5
+2025-06-15,1004,23,24,Beach Goods Inc.,12
+2025-06-15,1005,59,19,Local Screenprint Co,7
+2025-06-15,1006,60,26,Local Screenprint Co,6
+2025-06-15,1007,74,15,Hamptons Supply LLC,8
+2025-06-15,1008,95,20,Hamptons Supply LLC,12
+2025-06-15,1009,unknown,18,Local Screenprint Co,10
+2025-06-15,1010,83,22,Beach Goods Inc.,8
+2025-06-15,1011,41,17,Local Screenprint Co,7
+2025-06-15,1012,75,24,Local Screenprint Co,6
+2025-07-01,1001,62,21,Beach Goods Inc.,7
+2025-07-01,1002,28,33,Atlantic Apparel,7
+2025-07-01,1003,72,24,Local Screenprint Co,10
+2025-07-01,1004,43,21,Atlantic Apparel,9
+2025-07-01,1005,71,29,Beach Goods Inc.,5
+2025-07-01,1006,70,25,Atlantic Apparel,8
+2025-07-01,1007,56,28,Beach Goods Inc.,3
+2025-07-01,1008,74,21,Local Screenprint Co,10
+2025-07-01,1009,59,21,Hamptons Supply LLC,4
+2025-07-01,1010,86,21,Atlantic Apparel,10
+2025-07-01,1011,unknown,21,Beach Goods Inc.,10
+2025-07-01,1012,79,19,Atlantic Apparel,10
+2025-07-15,1001,45,15,Local Screenprint Co,11
+2025-07-15,1002,65,30,Local Screenprint Co,3
+2025-07-15,1003,43,13,Hamptons Supply LLC,9
+2025-07-15,1004,38,20,Local Screenprint Co,12
+2025-07-15,1005,40,23,Hamptons Supply LLC,6
+2025-07-15,1006,95,24,Local Screenprint Co,3
+2025-07-15,1007,40,22,Local Screenprint Co,6
+2025-07-15,1008,56,34,Beach Goods Inc.,6
+2025-07-15,1009,47,19,Hamptons Supply LLC,7
+2025-07-15,1010,62,17,Atlantic Apparel,8
+2025-07-15,1011,39,26,Hamptons Supply LLC,8
+2025-07-15,1012,55,21,Hamptons Supply LLC,8
+2025-08-01,1001,51,20,Local Screenprint Co,10
+2025-08-01,1002,64,28,Local Screenprint Co,9
+2025-08-01,1003,67,22,Local Screenprint Co,7
+2025-08-01,1004,70,29,Local Screenprint Co,15
+2025-08-01,1005,90,28,Local Screenprint Co,3
+2025-08-01,1006,66,27,Beach Goods Inc.,8
+2025-08-01,1007,50,30,Local Screenprint Co,15
+2025-08-01,1008,85,29,Local Screenprint Co,8
+2025-08-01,1009,58,16,Atlantic Apparel,10
+2025-08-01,1010,57,19,Atlantic Apparel,9
+2025-08-01,1011,45,25,Beach Goods Inc.,7
+2025-08-01,1012,81,27,Atlantic Apparel,5
+2025-08-15,1001,54,25,Beach Goods Inc.,9
+2025-08-15,1002,66,29,Local Screenprint Co,4
+2025-08-15,1003,76,25,Hamptons Supply LLC,6
+2025-08-15,1004,75,24,Local Screenprint Co,10
+2025-08-15,1005,41,34,Atlantic Apparel,8
+2025-08-15,1006,75,21,Atlantic Apparel,7
+2025-08-15,1007,67,30,Local Screenprint Co,4
+2025-08-15,1008,84,10,Beach Goods Inc.,11
+2025-08-15,1009,60,30,Local Screenprint Co,10
+2025-08-15,1010,63,17,Beach Goods Inc.,4
+2025-08-15,1011,72,28,Atlantic Apparel,7
+2025-08-15,1012,45,21,Local Screenprint Co,12
+2025-09-01,1001,74,32,Atlantic Apparel,6
+2025-09-01,1002,34,27,Atlantic Apparel,6
+2025-09-01,1003,38,29,Beach Goods Inc.,10
+2025-09-01,1004,88,26,Beach Goods Inc.,3
+2025-09-01,1005,65,26,Local Screenprint Co,7
+2025-09-01,1006,36,17,Beach Goods Inc.,11
+2025-09-01,1007,31,27,Atlantic Apparel,7
+2025-09-01,1008,21,28,Beach Goods Inc.,9
+2025-09-01,1009,52,23,Local Screenprint Co,5
+2025-09-01,1010,28,28,Hamptons Supply LLC,7
+2025-09-01,1011,66,18,Hamptons Supply LLC,11
+2025-09-01,1012,28,22,Hamptons Supply LLC,12
+2025-09-15,1001,61,14,Atlantic Apparel,9
+2025-09-15,1002,61,21,Local Screenprint Co,9
+2025-09-15,1003,69,24,Atlantic Apparel,3
+2025-09-15,1004,57,26,Local Screenprint Co,9
+2025-09-15,1005,72,21,Beach Goods Inc.,11
+2025-09-15,1006,38,25,Local Screenprint Co,3
+2025-09-15,1007,60,25,Beach Goods Inc.,6
+2025-09-15,1008,36,30,Atlantic Apparel,9
+2025-09-15,1009,45,18,Atlantic Apparel,9
+2025-09-15,1010,57,19,Hamptons Supply LLC,6
+2025-09-15,1011,76,24,Atlantic Apparel,11
+2025-09-15,1012,78,32,Local Screenprint Co,9
+2025-10-01,1001,43,27,Beach Goods Inc.,6
+2025-10-01,1002,70,25,Beach Goods Inc.,3
+2025-10-01,1003,43,19,Hamptons Supply LLC,8
+2025-10-01,1004,43,30,Local Screenprint Co,5
+2025-10-01,1005,73,25,Atlantic Apparel,4
+2025-10-01,1006,66,31,Atlantic Apparel,5
+2025-10-01,1007,55,23,Atlantic Apparel,7
+2025-10-01,1008,59,24,Local Screenprint Co,10
+2025-10-01,1009,80,16,Atlantic Apparel,7
+2025-10-01,1010,34,24,Atlantic Apparel,10
+2025-10-01,1011,71,29,Beach Goods Inc.,5
+2025-10-01,1012,42,32,Hamptons Supply LLC,4
+2025-10-15,1001,59,23,Local Screenprint Co,14
+2025-10-15,1002,45,27,Beach Goods Inc.,7
+2025-10-15,1003,69,22,Atlantic Apparel,3
+2025-10-15,1004,86,15,Local Screenprint Co,8
+2025-10-15,1005,60,26,Beach Goods Inc.,9
+2025-10-15,1006,57,34,Hamptons Supply LLC,6
+2025-10-15,1007,44,28,Atlantic Apparel,5
+2025-10-15,1008,45,21,Hamptons Supply LLC,5
+2025-10-15,1009,88,26,Local Screenprint Co,8
+2025-10-15,1010,61,21,Beach Goods Inc.,9
+2025-10-15,1011,14,25,Beach Goods Inc.,8
+2025-10-15,1012,34,29,Local Screenprint Co,15
+2025-11-01,1001,29,34,Local Screenprint Co,8
+2025-11-01,1002,72,26,Hamptons Supply LLC,6
+2025-11-01,1003,unknown,29,Local Screenprint Co,13
+2025-11-01,1004,47,25,Hamptons Supply LLC,10
+2025-11-01,1005,67,22,Hamptons Supply LLC,3
+2025-11-01,1006,45,30,Hamptons Supply LLC,11
+2025-11-01,1007,93,29,Local Screenprint Co,9
+2025-11-01,1008,41,10,Local Screenprint Co,10
+2025-11-01,1009,90,26,Local Screenprint Co,12
+2025-11-01,1010,40,23,Atlantic Apparel,10
+2025-11-01,1011,50,32,Hamptons Supply LLC,4
+2025-11-01,1012,102,25,Atlantic Apparel,10
+2025-11-15,1001,77,29,Atlantic Apparel,7
+2025-11-15,1002,103,23,Local Screenprint Co,6
+2025-11-15,1003,64,22,Hamptons Supply LLC,3
+2025-11-15,1004,51,26,Local Screenprint Co,8
+2025-11-15,1005,46,20,Atlantic Apparel,7
+2025-11-15,1006,66,21,Hamptons Supply LLC,5
+2025-11-15,1007,90,20,Hamptons Supply LLC,9
+2025-11-15,1008,52,21,Atlantic Apparel,5
+2025-11-15,1009,unknown,21,Beach Goods Inc.,7
+2025-11-15,1010,70,18,Beach Goods Inc.,8
+2025-11-15,1011,72,31,Beach Goods Inc.,4
+2025-11-15,1012,55,19,Local Screenprint Co,9
+2025-12-01,1001,26,16,Hamptons Supply LLC,6
+2025-12-01,1002,4,26,Hamptons Supply LLC,8
+2025-12-01,1003,38,26,Atlantic Apparel,5
+2025-12-01,1004,55,15,Hamptons Supply LLC,9
+2025-12-01,1005,59,21,Local Screenprint Co,7
+2025-12-01,1006,17,16,Atlantic Apparel,13
+2025-12-01,1007,91,27,Atlantic Apparel,9
+2025-12-01,1008,56,28,Hamptons Supply LLC,9
+2025-12-01,1009,108,27,Beach Goods Inc.,9
+2025-12-01,1010,49,24,Hamptons Supply LLC,5
+2025-12-01,1011,80,29,Beach Goods Inc.,9
+2025-12-01,1012,67,32,Beach Goods Inc.,12
+2025-12-15,1001,61,25,Local Screenprint Co,9
+2025-12-15,1002,99,30,Atlantic Apparel,10
+2025-12-15,1003,58,26,Local Screenprint Co,9
+2025-12-15,1004,67,26,Local Screenprint Co,11
+2025-12-15,1005,80,33,Atlantic Apparel,8
+2025-12-15,1006,38,21,Beach Goods Inc.,12
+2025-12-15,1007,6,15,Atlantic Apparel,9
+2025-12-15,1008,unknown,32,Beach Goods Inc.,8
+2025-12-15,1009,81,29,Atlantic Apparel,3
+2025-12-15,1010,88,28,Beach Goods Inc.,9
+2025-12-15,1011,44,36,Hamptons Supply LLC,5
+2025-12-15,1012,60,22,Atlantic Apparel,13
