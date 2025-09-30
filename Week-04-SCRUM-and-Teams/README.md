@@ -10,6 +10,7 @@
 1. Zacks random project idea
 2. Two Random Breakout Rooms (4–5 people each)
 0. Review Homework due next week and how to submit in [HW Submission Form](https://forms.gle/MFH173MZaQ5TquCB6)
+1. Attention: NO CLASS NEXT WEEK
 
 
 
@@ -18,6 +19,7 @@
 1. Create slack channel [~1min]
 2. Preclass video/s:  Complete 2 DeepLearning.ai courses [~3hrs]
 3. Create student account and install [Cursor](https://cursor.com/students) [~10min]
+4. Download an install [Windsurf](https://windsurf.com/editor/students) free version.
 
 ## Make a team
 __Form a team of 3–4 people from this class only and submit.__
@@ -43,12 +45,8 @@ _HOW TO SUBMIT:  [HW Submission Form](https://forms.gle/MFH173MZaQ5TquCB6) submi
 ## Preclass Videos: Complete 2 DeepLearning.ai courses
 _HOW TO SUBMIT:  Upload a screenshot showing 100% completion for each course in this weeks slack thread. Then submit those message links (to your screenshot) in the [HW Submission Form](https://forms.gle/MFH173MZaQ5TquCB6) 2x one for each message. (bonus points for funniest faces in screenshot)_
 
-Everyone must complete this course:
+Everyone must complete these two course:
   - [ChatGPT Prompt Engineering for Developers course](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers)
-
-Then complete any one of the following three:
   - [Building Systems with ChatGPT](https://www.deeplearning.ai/short-courses/building-systems-with-chatgpt)
-  - [Vibe Coding 101 with Replit](https://www.deeplearning.ai/short-courses/vibe-coding-101-with-replit/)
-  - [Build Apps with Windsurfs AI Coding Agents](https://www.deeplearning.ai/short-courses/build-apps-with-windsurfs-ai-coding-agents/)
 
 ![image](https://github.com/CUNYTechPrep/2024-DS-Fri-1230/blob/0fa39d92ba70f6f82208a02b4698d3d0bc3ec915/Week-08-Decision-Trees-n-Random-Forest/images/image.png?raw=true)
