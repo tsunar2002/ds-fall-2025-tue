@@ -1,0 +1,11 @@
+discount_code,description,start_date,end_date,percent_off,applies_to
+MDAY,Memorial Day Weekend Sale,2024-05-24,2024-05-27,0.15,All
+JUL4,Fourth of July Promo,2024-07-03,2024-07-05,0.1,All
+LABOR,Labor Day Sale,2024-08-30,2024-09-02,0.15,All
+RAINY,Rainy Day Special,,,0.1,All
+B2S,Back to School Hoodies,2024-09-05,2024-09-20,0.12,Clothing
+WINTER,Winter Warm-Up Hoodie,2024-12-01,2025-02-28,0.1,Clothing
+SPRING,Spring Refresh,2025-04-15,2025-04-30,0.08,Accessories
+MDAY2,Memorial Day Weekend Sale,2025-05-23,2025-05-26,0.15,All
+JUL25,Fourth of July Promo,2025-07-03,2025-07-05,0.1,All
+LAB25,Labor Day Sale,2025-08-29,2025-09-01,0.15,All
