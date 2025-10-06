@@ -1,10 +1,17 @@
 # Week 05 Statistics and Business Analytics
 
 ## Agenda
-0. Remind me to start recording
+0. Zacks [Waiting Room Video](https://www.youtube.com/watch?v=_acG8j7-iY0)
+0. Job Hunt Stories.
+0. Remind me to start recording.
+0. Job form reminder. 
+0. Read Weekly Slack Annoucements. 
 0. [Google Slides Lecture](https://docs.google.com/presentation/d/18UjEIwVGdaWwew2M00QNS_8A-tkASBVzCqAtrQ2CbF4/edit?slide=id.g37a6054627d_0_20#slide=id.g37a6054627d_0_20)
 0. Lecture Coding
 0. TEAM Breakout Rooms
+	- Alphabetical order by first name is SCRUM leader for first meeting (next will be next)
+	- Create design doc if you have not yet.
+	- Bookmark in group chat Slack Chat, invite all team members, TA, and Instructor as editors. 
 
 # Homework
 
