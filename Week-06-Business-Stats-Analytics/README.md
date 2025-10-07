@@ -15,6 +15,9 @@
 
 # Homework
 
+# IMPORTANT, FROM NOW ON SUBMIT HOMEWORK ON THIS GOOGLE SHEET!  
+Instructor walk them thru how to do it.  [zack to add link here]
+
 ### Exercise Notebook
 
 ## Logisitic Regression Pre-Class Prep Videos 
