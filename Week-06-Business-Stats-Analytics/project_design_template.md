@@ -1,0 +1,13 @@
+	- Create design doc if you have not yet.
+		- Project Name
+  		- Project Scope
+		- Key Features
+		- Frameworks/Libraries
+        - Audience (Who is this project for?)
+		- Workflow Diagram [Excalidraw](https://excalidraw.com/)
+  		- List of Tasks
+    	- Divide/Assign Tasks Per Person
+        - Timeline Of Project
+        - Implementation Plan 
+        - Datasets To Be Used (With Their Links)
+        - Video Tutorials Related To Your Project (With Their Links)
