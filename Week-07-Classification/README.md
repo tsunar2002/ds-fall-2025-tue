@@ -1,4 +1,4 @@
-# Week 6 - Classification through the lens of Logsitic Regression
+# Week 7 - Classification through the lens of Logsitic Regression
 
 ## Annoucements
 0. Be ready to interview in person again due to rampant cheating.  Cheating during an interview will get you blacklisted. 
@@ -35,9 +35,6 @@
 ![alt text](https://raw.githubusercontent.com/CUNYTechPrep/2024-DS-Fri-1230/refs/heads/main/Week-05-Unsupervised-Learning/images/brad-pitt.png)
 <br>
 <br>
-### Linked In Post
-
-
 
 ## Exercise.ipynb [~30min-1hr]
 0. MAKE A COPY of the Exercise file.
