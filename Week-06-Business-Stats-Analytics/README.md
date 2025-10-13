@@ -37,4 +37,4 @@ Post in slack one thing you find interesting about any of the vidoes below.
 <br>
 
 ## LinkedIn Post
-* TBA
+* Find an item you bought on purpose, then go to that brand’s blogs and find a data scientist from there, or from any company you like, post about any data science project they did and tag them in your post. 
