@@ -16,7 +16,7 @@
 # Homework
 
 # IMPORTANT, FROM NOW ON SUBMIT HOMEWORK ON THIS GOOGLE SHEET!  
-Instructor walk them thru how to do it.  [zack to add link here]
+Instructor walk them thru how to do it ([here](https://docs.google.com/spreadsheets/d/1noOJ6UP_izWVsWHmvFXe3UPQVPVsxeK_QGLOL7J7k10/edit?gid=0#gid=0))
 
 ### Exercise Notebook
 
