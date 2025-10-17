@@ -37,4 +37,4 @@
 0. Put link to your notebook file in the HW Submission sheet
 
 ## LinkedIn Post
-* Mehhh.... If yall participated well today, I will wave this weeks LI post. 
+* Tag Josh Starmer from StatQuest in you posts! (he responds to you)
